@@ -40,7 +40,7 @@
     },
     "version": "1.2.14",
     "caesar": {
-        "caeserPassword": "266303"
+        "caeserPassword": "12345"
     },
     "cave": {
         "cooldownTime": 2000000
@@ -56,10 +56,10 @@
         "cooldownTime": 3000000
     },
     "gif": {
-        "TENOR": "73YIAOY3ACT1"
+        "TENOR": ""
     },
     "instagram": {
-        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+        "APIKEY": ""
     },
     "math": {
         "WOLFRAM": "T8J8YV-H265UQ762K"
@@ -79,7 +79,7 @@
         "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
     },
     "shortlink": {
-        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+        "bitlyAPI": "
     },
     "soundcloud": {
         "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
@@ -100,7 +100,7 @@
         "enable": true
     },
     "fbcover": {
-        "APIKEY": "tdunguwu"
+        "APIKEY": "td"
     },
     "help": {
         "autoUnsend": true,
