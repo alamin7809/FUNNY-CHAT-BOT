@@ -8,7 +8,7 @@ jobs:
   build:
 
 
-    runs-on: ubuntu-latest
+    runs-on: realme c25y 
 
     strategy:
       matrix:
